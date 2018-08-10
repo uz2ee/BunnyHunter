@@ -14,4 +14,8 @@ A simple shooting game where a child weakes up in a village finds himself sorrou
 
  # Game play !!!
  
+ ![new bitmap imag222e](https://user-images.githubusercontent.com/41207912/43982705-0424fece-9d19-11e8-8fd9-4ab33f9cb8fe.jpg)
  
+ ![new bitmap imag222e](https://user-images.githubusercontent.com/41207912/43982828-8bc8e19c-9d19-11e8-8a39-0580d582182e.jpg)
+
+![new bitmap imag222e](https://user-images.githubusercontent.com/41207912/43982943-f86ec884-9d19-11e8-9c2c-829a69142553.jpg)
