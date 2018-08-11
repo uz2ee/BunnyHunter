@@ -1,7 +1,7 @@
 # Bunny Hunter
  Download ->  [Bunny Hunter ](https://www.dropbox.com/s/9ggb9pdsq1wlh3s/Bunny%20Hunter%203.rar?dl=0)
  
-A simple shooting game where a child weakes up in a village finds himself sorrounded by his own puppets attaking him. 
+A simple shooting game where a child wakes up in a village finds himself sorrounded by his own puppets attaking him. 
 
 ## Game creation screenshots and features ! 
 
